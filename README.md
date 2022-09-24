@@ -5,3 +5,6 @@ my self hosted Gitea instance.
 ## Monadic Bot
 I run a Discord bot which rolls dice. Information about that can be found here:
 https://www.catmonad.xyz/mbot/
+
+You can invite it to your server with this link:
+https://www.catmonad.xyz/_stuff/invite-mbot
